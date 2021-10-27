@@ -1,3 +1,3 @@
-console.log("hello this is a SSH test");
-console.log("the hotfix is working");
+console.log("hello this is a SsH test");
+console.log("trying to fix a button");
 
